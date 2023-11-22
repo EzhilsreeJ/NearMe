@@ -216,12 +216,12 @@ YHills.html
 ```
 
 ## OUTPUT
-
-
-
-
-
-
+![Alt text](HOME.png)
+![Alt text](TPT.png)
+![Alt text](JFALLS.png)
+![Alt text](JHILLS.png)
+![Alt text](EFALLS.png)
+![Alt text](YHILLS.png)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
